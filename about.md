@@ -20,9 +20,7 @@ And that has made all the difference.<br><br>
 
 <div>
 Hello!
-My name is Kobe Fitussi I am a software developer by trade and by passion.<br><br>
-
-For decades, I entertained the idea of establishing my own online presence through a personal website. However, I repeatedly dismissed it, comfortable with my basic professional profile but it seems I was missing on the most interesting action! 
+Welcome to my little sandbox on the web, I am a software developer by trade and by passion.<br><br>
 
 This site is mostly for my own amusement - articles, snippets, hobbies and … photos of my cats (A.K.A: The sole purrrrpose of the INTERNET!)
 
